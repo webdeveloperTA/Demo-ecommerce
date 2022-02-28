@@ -1,0 +1,152 @@
+font-face{
+	font-family: 'Alfa Slab One', cursive;
+}
+
+/*Header Section CSS Start Now*/
+
+header{
+	background-image: url("../images/banner-bg.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 5px;
+
+}
+ul li a:hover{
+	background-color: #f60c1c;
+}
+
+.banner-text{
+	margin-top: 100px;
+	margin-left: 50px;
+}
+
+.banner-text p{
+	padding: 5px;
+	border: 1px dotted black;
+	display: inline-block;
+	color: #3d2514;
+	font-weight: bold;
+}
+
+.banner-text h1{
+	font-size: 100px;
+	color: #f60c1c;
+}
+.banner-text h3{
+	font-size: 50px;
+	font-family: 'Alfa Slab One', cursive;
+	color: #3d2514;
+}
+
+.banner-image img{
+	width: 600px;
+}
+
+/*Header Section CSS End Here*/
+
+
+/*<!-- Image Section  CSS Start Here -->*/
+
+.left-image{
+	background-image: url("../images/burgerOne.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 420px;
+
+}
+.left-image h3{
+	color: white;
+	padding: 10px 0px 0px 20px;
+}
+
+.left-image h5{
+	background-color: #f60c1c;
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.right-image1 h5{
+	background-color: #f60c1c;
+	font-weight: bold;
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.right-image1 h3{
+	color: white;
+	padding: 5px 0px 0px 10px;
+}
+
+
+.right-image1{
+	background-image: url("../images/burgerTwo.png");
+	height: 200px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+/*<!-- Image Section  CSS End Here -->*/
+
+
+/*<!-- Feature Section CSS Start Hare -->*/
+
+
+.title h5{
+	background-color: #ffc045;
+	display: inline-block;
+}
+
+.title h2{
+	color: #3d2514;
+	font-family: 'Alfa Slab One', cursive;
+}
+
+
+
+.card-body2 h3{
+	color: #3d2514;
+	font-family: 'Alfa Slab One', cursive;
+}
+
+/*<!-- Feature Section CSS End Hare -->*/
+
+
+/*<!-- Image Section  CSS Start Here -->*/
+
+.service-text h2{
+	color: #3d2514;
+	font-family: 'Alfa Slab One', cursive;
+}
+
+.service-icon img{
+	height: 380px;
+}
+
+/*<!-- Image Section  CSS End Here -->*/
+
+
+/*<!-- Table Section CSS Start Here -->*/
+
+.text-table h5{
+	margin-top: 40px;
+}
+.text-table h1{
+	color: #3d2514;
+	font-family: 'Alfa Slab One', cursive;
+}
+
+/*<!-- Table Section CSS End Here -->*/
+
+
+/*<!-- Footer Section CSS Start Here -->*/
+.bottom-image{
+	margin-top: 20px;
+}
+
+footer{
+	background-image: url("../images/footerBg.png");
+	padding: 100px 0px  5px 0px;
+}	
+
+
+/*<!-- Footer Section CSS End Here -->*/
